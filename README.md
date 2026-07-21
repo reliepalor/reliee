@@ -1,19 +1,19 @@
-<h1 align="center">Hi , I'm John Relie Palor</h1>
-<h3 align="center">Learning and building my way into web development.</h3>
+### Hi, I'm Relie 👋
+Full-stack developer | Web Development | Angular · ASP.NET · Next.js · AI Integration
 
-- 🔭 I’m currently studying on **Cagayan State University - Gonzaga**
+![GitHub Streak](https://streak-stats.demolab.com?user=reliepalor&theme=dark&hide_border=true)
 
-- 📫 How to reach me [reliepalor@gmail.com](reliepalor@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reliepalor&show_icons=true&theme=dark&hide_border=true)
 
-- 📄 Know about me [My Portfolio](https://reliepalor.vercel.app/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reliepalor&layout=compact&theme=dark&hide_border=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=reliepalor&color=blueviolet)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reliepalor&show_icons=true&locale=en&layout=compact" alt="reliepalor" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reliepalor&" alt="reliepalor" /></p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://reliepalor.vercel.app)
+![trophy](https://github-profile-trophy.vercel.app/?username=reliepalor&theme=dark&no-frame=true&row=1)
