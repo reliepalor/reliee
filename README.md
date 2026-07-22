@@ -13,7 +13,7 @@ BS Information Technology — Major in Web Development, Cagayan State University
 
 ### About
 
-Full-stack developer specializing in modern web application development, with hands-on experience across the .NET, Angular, and Next.js ecosystems. Currently building **IGrade**, a full-stack grade management system using Next.js, Prisma, PostgreSQL, and Redis. Interested in AI-integrated applications and scalable backend architecture.
+Full-stack developer with hands-on experience across the .NET, Angular, and Next.js ecosystems. Currently working as a freelance developer, building web applications, AI-integrated systems, capstone research projects, and customized e-commerce platforms. Actively seeking full-time opportunities as a Junior Software Engineer or AI Developer.
 
 ### Tech Stack
 
@@ -49,8 +49,8 @@ Full-stack developer specializing in modern web application development, with ha
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reliepalor&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reliepalor&layout=compact&theme=default&hide_border=true&hide_title=true" alt="Top Languages" width="42%" />
+  <img src="https://github-readme-stats-reliepalor.vercel.app/api?username=reliepalor&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-reliepalor.vercel.app/api/top-langs/?username=reliepalor&layout=compact&theme=default&hide_border=true&hide_title=true" alt="Top Languages" width="42%" />
 </p>
 
 <p align="center">
