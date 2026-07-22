@@ -3,7 +3,6 @@
 # John Relie Palor
 ### Full-Stack Web Developer
 
-BS Information Technology — Major in Web Development, Cagayan State University
 
 [Portfolio](https://reliepalor.vercel.app/) · [Email](mailto:reliepalor@gmail.com)
 
